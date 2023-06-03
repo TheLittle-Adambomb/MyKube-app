@@ -12,7 +12,7 @@ spec:
   template:
     metadata:
       labels:
-        app: vpordb
+        app: vprodb
     spec:
       containers:
         - name: vprodb
